@@ -34,7 +34,7 @@
 
         <!-- TypeGroups are for structure of this file only -->
 
-        <typegroup name="Apparel">
+        <typegroup name="users">
             <itemtype code="ApparelProduct" 
 			extends="Product"
                       autocreate="true" generate="true"
